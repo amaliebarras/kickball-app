@@ -6,10 +6,10 @@
 UT Sophomore socialogy major, from Iowa and new to Austin. Coaching so she can make friends. She wears shorts and t-shirts always and lives on campus. She's often got her headphones in jammin' to 90s Brooks & Dunn songs. 
 
 ####Matt C - 31, Male
-Accountant in Miami, florida. Introvert who just loves sports and no one else wanted to coach. He has a lab mix named Bax but no kids. He eats Chili's probably too much, and is currently re-watching Louie. 
+Accountant in Miami, florida. Introvert who just loves sports and no one else wanted to coach. He has a lab mix named Bax but no kids. He eats Chili's probably too much, and is currently re-watching Louie Season 3. 
 
 ####Eileen M - 51, female. 
-Eileen has two grown kids. She mostly shops at Kohl's and wears a lot of the color turquoise. She has an iPhone and is pretty tech savvy for an older lady (or she likes to thing so). She's an early bird. 
+Eileen has two grown kids. She mostly shops at Kohl's and wears a lot of the color turquoise. She has an iPhone and is pretty tech savvy for an older lady (or she likes to think so). She's an early bird. 
 
 ### User Stories
 As a team captain, I need to receive notifications so I can give my team updated information. 
