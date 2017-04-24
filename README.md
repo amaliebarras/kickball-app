@@ -1,26 +1,26 @@
 # kickball-app
 mobile app design project for the Iron Yard week 7
 
-#App Inspiration
+# App Inspiration
 
 The three main pieces of the UI for this app will be the newsfeed, leaderboards and stats, and chat. I couldn't find a single app does all of these things well, so I'll divide the inspiration up by section.
 
-##Newsfeed
+## Newsfeed
 
-###[Twitter](https://itunes.apple.com/us/app/twitter/id333903271?mt=8)
+### [Twitter](https://itunes.apple.com/us/app/twitter/id333903271?mt=8)
 
 I appreciate the way that twitter uses active states to expand and collapse features to preserve real estate. For example, when you land on the twitter page, the "what's happening" field is collapsed, but prominent. When you click on it, however, it expands to include other options. 
 
 Also, 140 characters is just the right amount of space to indicate what sort of content will be in a post. 
 
 
-##Chat
+## Chat
 
-###[Slack](https://itunes.apple.com/us/app/slack/id803453959?mt=12)
+### [Slack](https://itunes.apple.com/us/app/slack/id803453959?mt=12)
 
 Slack is doing it right in terms of chat. It's so straightforward. Slack is a little more complex than the Kickball chat needs to be (ex - I don't think we'll need file sharing?) but the way the conversations are organized & how easy they are to start - are both things to aspire to w/ my design. 
 
-##Leaderboards & Stats
+## Leaderboards & Stats
 
 ### App Store Top Charts
 
@@ -32,17 +32,17 @@ I loved it because it's low profile but still pretty obvious.
 
 This only works when you have a few metrics to sort by, and in this case, we do. I suppose you could always have navigation arrows if you had to extend the metric list. 
 
-#User Studies
-##Set 1 - Kickball 
+# User Studies
+## Set 1 - Kickball 
 
-###Personas 
-####Lindsey D - 22, Female 
+### Personas 
+#### Lindsey D - 22, Female 
 UT Sophomore socialogy major, from Iowa and new to Austin. Coaching so she can make friends. She wears shorts and t-shirts always and lives on campus. She's often got her headphones in jammin' to 90s Brooks & Dunn songs. 
 
-####Matt C - 31, Male
+#### Matt C - 31, Male
 Accountant in Miami, florida. Introvert who just loves sports and no one else wanted to coach. He has a lab mix named Bax but no kids. He eats Chili's probably too much, and is currently re-watching Louie Season 3. 
 
-####Eileen M - 51, female. 
+#### Eileen M - 51, female. 
 Eileen has two grown kids. She mostly shops at Kohl's and wears a lot of the color turquoise. She has an iPhone and is pretty tech savvy for an older lady (or she likes to think so). She's an early bird. 
 
 ### User Stories
@@ -98,7 +98,7 @@ Lindsey had a super crazy day at work today and didn't notice that there was a 8
 				~Cancel
 					//Back to Receive Notification Screen
 
-#Paper Prototype
+# Paper Prototype
 
 So my first attempt at paper prototype testing was unsuccessful. Here are some of my failure points:
 
